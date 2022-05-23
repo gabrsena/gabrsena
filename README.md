@@ -11,10 +11,10 @@
 </div>
 
 ## About Me
-*   🌍  I'm based in São Paulo, Brasil
-*   ✉️  You can contact me at [gabrsena@hotmail.com](mailto:gabrsena@hotmail.com)
-*   🧠  I'm learning **Front-end Development** at [Trybe](https://www.betrybe.com/)
-*   ⚡  I ... am... Iron-Man!
+   🌍  I'm based in São Paulo, Brasil
+   ✉️  You can contact me at [gabrsena@hotmail.com](mailto:gabrsena@hotmail.com)
+   👨🏽‍💻   I'm learning **Front-end Development** at [Trybe](https://www.betrybe.com/)
+ 
 
 
 
