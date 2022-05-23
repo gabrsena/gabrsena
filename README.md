@@ -50,6 +50,6 @@
 ## Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/0xgabrsena" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/0gabrsena" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   
 </p> 
