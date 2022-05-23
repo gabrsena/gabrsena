@@ -49,8 +49,7 @@
 
 ## Connect with me:
 
-<p align="left"><a href="https://www.linkedin.com/in/0xgabrsena" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a 
-    
-  <a href="http://www.instagram.com/senaemcenas" rel="noreferrer" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedroguarize" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   
 </p> 
