@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css" />
   </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=linux,shell,bash,vscode,git,github" />
   </a>
   <br/>
   <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
