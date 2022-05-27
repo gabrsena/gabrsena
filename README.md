@@ -6,9 +6,10 @@
 
 <div align="center"> Trabalhei por anos no setor bancário, até que descobri essa minha paixão em codar e decidi fazer a migração de área.
 
-
+<br>
 
 </div>
+
 
 
 ### About Me
