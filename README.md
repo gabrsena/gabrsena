@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Gabriel Sena</h1>
 
-<h3 align="center"> I'm a passionate student based in São Paulo. </h3>
+<h3 align="center"> I'm a passionate student based in Sao Paulo. </h3>
 
 <br />
 
@@ -8,6 +8,8 @@
 
 
 </div>
+
+<br>
 
 <br>
 
