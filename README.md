@@ -1,4 +1,4 @@
-<h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> me chamo Gabriel Sena</h1>
+<h1 align="center">Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> me chamo Gabriel Sena</h1>
 
 <h3 align="center"> Sou estudante Full Stack Web Developer apaixonado por programação! </h3>
 
