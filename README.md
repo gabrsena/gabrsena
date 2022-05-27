@@ -9,7 +9,8 @@
 
 
 </div>
-<br>
+
+
 ## About Me
 *   🌍  Based in São Paulo, Brasil
 *   ✉️  You can contact me at [gabrsena@hotmail.com](mailto:gabrsena@hotmail.com)
