@@ -1,10 +1,10 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Gabriel Sena</h1>
 
-<h3 align="center"> I'am a passionate student based in São Paulo. </h3>
+<h3 align="center"> I'm a passionate student based in São Paulo. </h3>
 
 <br />
 
-<div align="center"> Trabalhei por 5 anos no setor bancário, até que descobri essa minha paixão em codar e decidi migrar.
+<div align="center"> Trabalhei por anos no setor bancário, até que descobri essa minha paixão em codar e decidi fazer a migração de área.
 
 
 
