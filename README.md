@@ -4,7 +4,7 @@
 
 <br />
 
-<div align="center">
+<div align="center"> Trabalhei por 7 anos no setor bancário, até que descobri essa minha paixão de codar e resolvi migrar.
 
 
 
@@ -13,7 +13,7 @@
 ## About Me
 *   🌍  Based in São Paulo, Brasil
 *   ✉️  You can contact me at [gabrsena@hotmail.com](mailto:gabrsena@hotmail.com)
-*   👨🏽‍💻   I'm learning **Front-end Development** at [Trybe](https://www.betrybe.com/)
+*   👨🏽‍💻  I'm learning **Front-end Development** at [Trybe](https://www.betrybe.com/)
  
 
 
