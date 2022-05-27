@@ -11,7 +11,7 @@
 </div>
 
 
-## About Me
+### About Me
 *   👨🏽‍💻  I'm learning **Front-end Development** at [Trybe](https://www.betrybe.com/)
 *   ✉️  You can contact me at [gabrsena@hotmail.com](mailto:gabrsena@hotmail.com)
 
