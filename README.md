@@ -1,10 +1,10 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Gabriel Sena</h1>
 
-<h3 align="center"> Sou estudante Full Stack Web Developer apaixonado por programação! </h3>
+<h3 align="center"> Sou estudante I'am a passionate student based in São Paulo. </h3>
 
 <br />
 
-<div align="center"> Trabalhei por 7 anos no setor bancário, até que descobri essa minha paixão de codar e resolvi migrar.
+<div align="center"> Trabalhei por 5 anos no setor bancário, até que descobri essa minha paixão em codar e decidi migrar.
 
 
 
@@ -12,9 +12,9 @@
 
 
 ## About Me
-*   🌍  Based in São Paulo, Brasil
-*   ✉️  You can contact me at [gabrsena@hotmail.com](mailto:gabrsena@hotmail.com)
 *   👨🏽‍💻  I'm learning **Front-end Development** at [Trybe](https://www.betrybe.com/)
+*   ✉️  You can contact me at [gabrsena@hotmail.com](mailto:gabrsena@hotmail.com)
+
  
 
 
