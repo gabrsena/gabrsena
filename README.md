@@ -11,7 +11,7 @@
 </div>
 
 ## About Me
-*   🌍  I'm based in São Paulo, Brasil
+*   🌍  Based in São Paulo, Brasil
 *   ✉️  You can contact me at [gabrsena@hotmail.com](mailto:gabrsena@hotmail.com)
 *   👨🏽‍💻   I'm learning **Front-end Development** at [Trybe](https://www.betrybe.com/)
  
