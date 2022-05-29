@@ -1,4 +1,4 @@
-![MasterHead](gabriel_sena.gif)
+![MasterHead](GABRIEL SENA (6250 × 2084 px) (1500 × 500 px).gif)
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <h3 align="center"> I'm Gabriel, a passionate student based in Sao Paulo. </h3>
