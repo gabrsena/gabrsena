@@ -1,11 +1,12 @@
 ![MasterHead](GABRIEL_SENA.gif)
-<h2 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
+<h2 align="center">HI! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
 
 <h3 align="center"> I'm Gabriel, a passionate student based in Sao Paulo. </h3>
 
 <br />
 
 <div align="center"> Trabalhei por anos no setor bancário, até que descobri essa minha paixão em codar e decidi fazer a migração de área.
+
 
 
 </div>
