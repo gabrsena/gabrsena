@@ -1,5 +1,5 @@
-[![MasterHead](20220529_0046141.gif)]
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Gabriel Sena</h1>
+![MasterHead](20220529_0046141.gif)
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <h3 align="center"> I'm a passionate student based in Sao Paulo. </h3>
 
