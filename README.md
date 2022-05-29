@@ -1,7 +1,7 @@
 ![MasterHead](GABRIEL_SENA.gif)
-<h2 align="center">HI! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
 
-<h3 align="center"> I'm Gabriel, a passionate student based in Sao Paulo. </h3>
+
+<h3 align="center">Hi! I'm Gabriel, a passionate student based in Sao Paulo. </h3>
 
 <br />
 
@@ -23,7 +23,7 @@
 
 
 
-## Languages and Tools:
+### Languages and Tools:
 
 <p align="left">
   
@@ -41,7 +41,7 @@
                     </p>
 </p>
 
-## My Github Stats
+### My Github Stats
 
 <br/>
 
@@ -52,7 +52,7 @@
  <a href="https://github.com/gabrsena/github-readme-stats"><img alt="gabrsena's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gabrsena&show_icons=true&hide=issues,&count_private=true&theme=chartreuse-dark" width="350" /></a>
 </p>
 
-## Connect with me:
+### Connect with me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/0xgabrielsena" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
