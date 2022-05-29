@@ -1,7 +1,7 @@
 ![MasterHead](gabriel_sena.gif)
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-<h3 align="center"> I'm a passionate student based in Sao Paulo. </h3>
+<h3 align="center"> I'm Gabriel, a passionate student based in Sao Paulo. </h3>
 
 <br />
 
