@@ -5,8 +5,7 @@
 
 <br />
 
-<div align="center"> Trabalhei por anos no setor bancário, até que descobri essa minha paixão em codar e decidi fazer a migração de área.
-
+<div align="center"> Trabalhei por anos no setor bancário, até que descidi migrar para a área que realmente amo, programação<3.
 
 
 </div>
