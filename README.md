@@ -1,8 +1,9 @@
 ![MasterHead](GABRIEL_SENA.gif)
+
 <div align="center">
- <h4>
+ <h2>
     Hi!
- </h4>
+ </h2>
 </div>
 <div align="center"> <h6>Meu nome é Gabriel, mas pode me chamar de Sena. Tenho 27 anos, natural de São Paulo-SP,<br> atualmente residindo em Sorocaba-SP.
 Trabalhei por anos no setor bancário,<br> até que decidi migrar para a área que realmente amo, programação.<br> Comecei estudando na escola Trybe, onde me formarei como <br>Fullstack Web Developer.</h6>
@@ -17,18 +18,18 @@ Trabalhei por anos no setor bancário,<br> até que decidi migrar para a área q
 
 <br>
 
-<br>
-
 ### Languages and Tools:
 
 <p align="left">
   
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+     <img src="https://skillicons.dev/icons?i=js,html,css" />
   </a>
-<a href="https://skillicons.dev">
+ 
+   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,github" />
   </a>
+ 
   <br/>
  
                     
@@ -49,5 +50,4 @@ Trabalhei por anos no setor bancário,<br> até que decidi migrar para a área q
 
 <p align="left">
   <a href="https://www.linkedin.com/in/0xgabrielsena" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  
 </p> 
