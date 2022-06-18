@@ -1,32 +1,23 @@
 ![MasterHead](GABRIEL_SENA.gif)
-
-
-<h3 align="center">Hi! I'm Gabriel, a passionate student based in Sao Paulo. </h3>
-
-<br />
+<div align="center">
+ <h4>
+    Hi!
+ </h4>
+</div>
+<div align="center"> <h6>Meu nome é Gabriel, mas pode me chamar de Sena. Tenho 27 anos, natural de São Paulo-SP,<br> atualmente residindo em Sorocaba-SP.
+Trabalhei por anos no setor bancário,<br> até que decidi migrar para a área que realmente amo, programação.<br> Comecei estudando na escola Trybe, onde me formarei como <br>Fullstack Web Developer.</h6>
+</div>
 
 <div align="center">
-
+ 
 [![Portfolio](https://img.shields.io/badge/portfolio-2e2e2e?style=for-the-badge)](https://senadeveloper.vercel.app/)
 
 </div>
 
-<div align="center"> Trabalhei por anos no setor bancário, até que descidi migrar para a área que realmente amo, programação<3.
-
-
-</div>
 
 <br>
 
 <br>
-
-### About Me
-*   👨🏽‍💻  I'm learning **Front-end Development** at [Trybe](https://www.betrybe.com/)
-*   ✉️  You can contact me at [gabrsena@hotmail.com](mailto:gabrsena@hotmail.com)
-
- 
-
-
 
 ### Languages and Tools:
 
@@ -39,21 +30,18 @@
     <img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,github" />
   </a>
   <br/>
-  <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-                                <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
-                                <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-                                <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
-                    </p>
-</p>
+ 
+                    
+
 
 ### My Github Stats
 
 <br/>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="gabrsena's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrsena&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark" width="400" /></a>
   </p>
-  <p align="center">
+  <p align="left">
  <a href="https://github.com/gabrsena/github-readme-stats"><img alt="gabrsena's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gabrsena&show_icons=true&hide=issues,&count_private=true&theme=chartreuse-dark" width="350" /></a>
 </p>
 
