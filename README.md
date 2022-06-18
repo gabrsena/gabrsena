@@ -19,8 +19,6 @@ Trabalhei por anos no setor bancário,<br> até que decidi migrar para a área q
 <br>
 
 ##### Languages and Tools
-
-<p align="left">
   
    <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=js,html,css" />
@@ -36,8 +34,6 @@ Trabalhei por anos no setor bancário,<br> até que decidi migrar para a área q
 
 
 ##### My Github Stats
-
-<br/>
 
 <p align="left">
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="gabrsena's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrsena&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark" width="400" /></a>
