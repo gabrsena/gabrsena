@@ -1,12 +1,11 @@
-![MasterHead](GABRIEL_SENA.gif)
 
 <div align="center">
- <h5>
+ <h4>
     Hi!
- </h5>
+ </h4>
 </div>
-<div align="center"> <h6>Meu nome é Gabriel, mas pode me chamar de Sena. Tenho 27 anos, natural de São Paulo-SP,<br> atualmente residindo em Sorocaba-SP.
-Trabalhei por anos no setor bancário,<br> até que decidi migrar para a área que realmente amo, programação.<br> Comecei estudando na escola Trybe, onde me formarei como <br>Fullstack Web Developer.</h6>
+<div align="center"> <h6>Meu nome é Gabriel Sena. Tenho 27 anos, natural de São Paulo-SP.<br>
+Trabalhei por anos no setor bancário, até que decidi migrar<br> para a área que realmente amo, programação!</h6>
 </div>
 
 <div align="center">
