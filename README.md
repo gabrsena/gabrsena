@@ -1,9 +1,7 @@
 ![sena.1png](sena1.png)
-<div align="center">
 
-</div>
-<div align="center"> <h6>Meu nome é Gabriel Sena. Tenho 27 anos, natural de São Paulo-SP.<br>
-Trabalhei por anos no setor bancário, até que decidi migrar<br> para a área que realmente amo, programação!</h6>
+<div align="center"> <h5>Meu nome é Gabriel Sena. Tenho 27 anos, natural de São Paulo-SP.<br>
+Trabalhei por anos no setor bancário, até que decidi migrar<br> para a área que realmente amo, programação!</h5>
 </div>
 
 <div align="center">
