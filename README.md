@@ -1,8 +1,6 @@
-
+![https://senadeveloper.vercel.app/](sena.png)
 <div align="center">
- <h4>
-    Hi!
- </h4>
+
 </div>
 <div align="center"> <h6>Meu nome é Gabriel Sena. Tenho 27 anos, natural de São Paulo-SP.<br>
 Trabalhei por anos no setor bancário, até que decidi migrar<br> para a área que realmente amo, programação!</h6>
