@@ -31,10 +31,10 @@
 ##### My Github Stats
 
 <p align="left">
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="gabrsena's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrsena&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark" width="400" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="gabrsena's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrsena&langs_count=8&count_private=true&layout=compact&theme=react" width="400" /></a>
   </p>
   <p align="left">
- <a href="https://github.com/gabrsena/github-readme-stats"><img alt="gabrsena's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gabrsena&show_icons=true&hide=issues,&count_private=true&theme=chartreuse-dark" width="350" /></a>
+ <a href="https://github.com/gabrsena/github-readme-stats"><img alt="gabrsena's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gabrsena&show_icons=true&hide=issues,&count_private=true&theme=react" width="350" /></a>
 </p>
 
 ### Connect with me
