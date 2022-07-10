@@ -1,7 +1,6 @@
-<h4 align="center">Hi, I'm Gabriel Sena<h4>
+![sena](sena.jpg)
 
-<div align="center"> <h5>Trabalhei por anos no setor bancário, até que decidi migrar<br> para a área que realmente amo, programação!</h5>
-</div>
+
 
 <div align="center">
  
@@ -10,31 +9,26 @@
 </div>
  <h6 align="center">Under construction...<h6>
 
+### Languages and Tools
 
-<br>
-
-##### Languages and Tools
-  
-   <a href="https://skillicons.dev">
+<a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=js,html,css" />
-  </a>
+</a>
  
-   <a href="https://skillicons.dev">
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,github" />
-  </a>
+</a>
  
-  <br/>
+<br/>
  
-                    
-
-
-##### My Github Stats
+### My Github Stats
 
 <p align="left">
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="gabrsena's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrsena&langs_count=8&count_private=true&layout=compact&theme=blueberry" width="400" /></a>
-  </p>
-  <p align="left">
- <a href="https://github.com/gabrsena/github-readme-stats"><img alt="gabrsena's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gabrsena&show_icons=true&hide=issues,&count_private=true&theme=blueberry" width="350" /></a>
+   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="gabrsena's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrsena&langs_count=8&count_private=true&layout=compact&theme=blueberry" width="400" /></a>
+</p>
+
+<p align="left">
+   <a href="https://github.com/gabrsena/github-readme-stats"><img alt="gabrsena's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gabrsena&show_icons=true&hide=issues,&count_private=true&theme=blueberry" width="350" /></a>
 </p>
 
 ### Connect with me
