@@ -1,4 +1,4 @@
-![sena](sena.jpg)
+![sena](sena.gif)
 
 
 
